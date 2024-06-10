@@ -1,4 +1,4 @@
-# shopify-account-generator
+# shop
 
 Automatic account generation for 3 shopify sites currently. Might add more idk
 
